@@ -6,3 +6,7 @@ les 3 commandes de push :
 les commandes de pull : 
   - git pull pour les demandes de tirages
       -- c'est une demande de fusion d'une série de modification d'une branche à une autre
+
+la commande pour crée une nouvelle branche :
+  - git branch 'nom-de-la-nouvelle-branche'
+  - git branch qui permet de voir les nouvelles branches
