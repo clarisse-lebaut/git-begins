@@ -1,0 +1,4 @@
+les 3 commandes de push :
+  - git push pour le renommage de branches
+  - git push pour la poussée de balises
+  - git push pour la suppression d'une balise ou d'une branche distante
