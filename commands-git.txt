@@ -9,4 +9,8 @@ les commandes de pull :
 
 la commande pour crée une nouvelle branche :
   - git branch 'nom-de-la-nouvelle-branche'
-  - git branch qui permet de voir les nouvelles branches
+  - git branch qui permet de voir les nouvelles branche et l'étoile verte dans VS Code 
+    indique la branche sur laquelle on se trouve
+
+la commande pour switcher de branche :
+  - git checksout
