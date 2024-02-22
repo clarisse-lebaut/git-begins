@@ -2,4 +2,7 @@ les 3 commandes de push :
   - git push pour le renommage de branches
   - git push pour la poussée de balises
   - git push pour la suppression d'une balise ou d'une branche distante
-  - git pull
+
+les commandes de pull : 
+  - git pull pour les demandes de tirages
+      -- c'est une demande de fusion d'une série de modification d'une branche à une autre
